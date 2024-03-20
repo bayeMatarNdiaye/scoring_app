@@ -1,0 +1,4 @@
+,FullName,NationalId,TotalAmount_banks,OutstandingAmount_banks,PastDueAmount_banks,PastDueDays_banks,CollateralValue_banks,TotalContrats_banks,TotalOpen_banks,TotalClosed_banks,DateOfBirth,Education,Gender,MaritalStatus,Employment,ProfessionalCategory,TotalAmount_mfi,OutstandingAmount_mfi,PastDueAmount_mfi,PastDueDays_mfi,CollateralValue_mfi,TotalContrats_mfi,TotalOpen_mfi,TotalClosed_mfi,age
+0,Mouhamadou Moustapha DIOP,1362199000281,,,,,,,,,1990-08-10,NotSpecified,Male,Single,NotSpecified,Employee,11919.0,11919.0,11919.0,1.0,0.0,1.0,1.0,0.0,66
+1,Faty B. LO,C0115522653,250000.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1986-04-30,NotSpecified,Female,Married,NotSpecified,Employee,12900000.0,0.0,0.0,0.0,40000000.0,1.0,0.0,1.0,38
+3,Jule GOMIS,1187198700589,5850000.0,4760789.0,0.0,0.0,0.0,2.0,2.0,0.0,1973-06-14,NotSpecified,Male,Married,NotSpecified,Employee,619890.0,619890.0,0.0,0.0,0.0,1.0,1.0,0.0,51
